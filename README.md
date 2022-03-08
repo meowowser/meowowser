@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @meowowser
-- 👀 I’m interested in tacos, soup dumplings, and the art of relaxing in sunshine. 
+- 👀 I’m interested in digital literacy, game design and comics. 
 - 🌱 I’m currently learning Java.
-- 💞️ I’m looking to collaborate on recipies. 
-- 📫 How to reach me ... I'm scared of my own shadow. 
+- 💞️ I’m looking to collaborate on an "old school" Java text RPG with color theory enhancements. 
+- 📫 How to reach me ... I'm scared of my own shadow.
 
 <!---
 meowowser/meowowser is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
